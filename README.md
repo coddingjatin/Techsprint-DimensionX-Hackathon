@@ -113,7 +113,7 @@ Firebase is used for:
 * **Firebase**
   → Authentication, account creation, secure user management
 
-
+**Demo Video Link**: https://drive.google.com/file/d/1wnhd0AFuXtrLY_q6GgKlSr7EMRfRLuvd/view?usp=sharing
 
 ## Pages in the Project
 
@@ -154,4 +154,5 @@ Firebase is used for:
 * Smart contracts for funding
 * Advanced AI risk analysis
 * Global investor ecosystem
+
 
