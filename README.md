@@ -1,4 +1,4 @@
-# Invest Vault
+# Invest Vault 
 
 **Where Smart Capital Meets Real Opportunities**
 
@@ -154,5 +154,6 @@ Firebase is used for:
 * Smart contracts for funding
 * Advanced AI risk analysis
 * Global investor ecosystem
+
 
 
